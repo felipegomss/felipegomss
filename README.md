@@ -34,4 +34,15 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/eclipse.png" alt="eclipse" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_pycharm.png" alt="pycharm" style="vertical-align:top; margin:4px">
 </p>
+</details>
+p align="center"> 
+  <i> Let's connect and chat! :incoming_envelope: </i>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter.png" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+<p align="center">
+  <i> Always learning and improving my skills :fireworks: </i>
+</p>
