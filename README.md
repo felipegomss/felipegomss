@@ -40,9 +40,9 @@ p align="center">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" width="60px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" width="60px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter.png" width="60px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter.png" alt="Twitter">     </a> &nbsp; &nbsp;
 <p align="center">
   <i> Always learning and improving my skills :fireworks: </i>
 </p>
