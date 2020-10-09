@@ -6,7 +6,7 @@
     <br><br>
     I'm studying software engineering :mortar_board:
     <br><br>
-    I love working with mobile and IOT, especially Front End :computer: 
+    I love to work with mobile and IOT, especially Front End :computer: 
   </samp>
 </p>
 <details>
