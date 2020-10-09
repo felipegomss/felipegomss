@@ -35,7 +35,7 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_pycharm.png" alt="pycharm" style="vertical-align:top; margin:4px">
 </p>
 </details>
-p align="center"> 
+<p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
