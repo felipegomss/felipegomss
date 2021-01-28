@@ -6,6 +6,8 @@
     <br><br>
     I'm studying software engineering :mortar_board:
     <br><br>
+    UX Designer :iphone:
+    <br><br>
     I love to work with mobile and web development, especially Front End :computer: 
   </samp>
 </p>
