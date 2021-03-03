@@ -10,11 +10,7 @@
   </samp>
 </p>
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
-  
-### - Languages and Tools
+  <summary> <b> Languages and Tools </b> <i>(click to expand!)</i> </summary>
 
 <p align="center">
 
