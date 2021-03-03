@@ -2,12 +2,14 @@
   Hello World!
   <br><br>
   <samp>
-    I'm Felipe Gomes :wave:
-    <br><br>
-    I'm studying software engineering :mortar_board:
-    <br><br>
+    I am a front-end developer passionate about technology :wave:
+    <br>
+    I started studying Software Engineering, the first step of the career I dreamed of since the beginning of my adolescence :mortar_board:
+    <br>
+    Always surrounded by technology, even in my hobbies, like playing the guitar and playing video games. I am constantly looking to learn new skills and improve the ones I         already have, so that each day I become a better person and professional.
+    <br>
     UX Designer :iphone:
-    <br><br>
+    <br>
     I love to work with mobile and web development, especially Front End :computer: 
   </samp>
 </p>
