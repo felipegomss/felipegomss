@@ -1,16 +1,12 @@
+<h1>Hello World! :earth_americas:</h1>
 <p align="left">
-  Hello World!
   <br><br>
   <samp>
-    I am a front-end developer passionate about technology :wave:
+    I am a front-end developer and UX Designer passionate about technology :wave:
     <br>
     I started studying Software Engineering, the first step of the career I dreamed of since the beginning of my adolescence :mortar_board:
     <br>
-    Always surrounded by technology, even in my hobbies, like playing the guitar and playing video games. I am constantly looking to learn new skills and improve the ones I         already have, so that each day I become a better person and professional.
-    <br>
-    UX Designer :iphone:
-    <br>
-    I love to work with mobile and web development, especially Front End :computer: 
+    Always surrounded by technology, even in my hobbies, like playing the guitar and playing video games. I am constantly looking to learn new skills and improve the ones I         already have, so that each day I become a better person and professional. :laptop:
   </samp>
 </p>
 <details>
