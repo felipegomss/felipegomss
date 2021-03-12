@@ -12,8 +12,7 @@
 <details>
   <summary> <b> Languages and Tools </b> <i>(click to expand!)</i> </summary>
 
-<p align="center">
-
+<spam align="center">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/angular.png" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
@@ -27,7 +26,7 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/android_studio_colour.png" alt="andoidstudio" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/eclipse.png" alt="eclipse" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/jetbrains_pycharm.png" alt="pycharm" style="vertical-align:top; margin:4px">
-</p>
+</spam>
 </details>
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
