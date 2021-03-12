@@ -1,6 +1,5 @@
 <h1>Hello World! :earth_americas:</h1>
 <p align="left">
-  <br><br>
   <samp>
     I am a front-end developer and UX Designer passionate about technology :wave:
     <br>
