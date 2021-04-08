@@ -5,7 +5,7 @@
     <br>
     I started studying Software Engineering, the first step of the career I dreamed of since the beginning of my adolescence :mortar_board:
     <br>
-    Always surrounded by technology, even in my hobbies, like playing the guitar and playing video games. I am constantly looking to learn new skills and improve the ones I         already have, so that each day I become a better person and professional. :computer:
+    Always surrounded by technology, even in my hobbies, like playing the guitar and video games. I am constantly looking to learn new skills and improve the ones I         already have, so that each day I become a better person and professional. :computer:
   </samp>
 </p>
 <details>
