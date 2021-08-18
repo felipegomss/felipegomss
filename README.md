@@ -19,6 +19,8 @@
   <img align="center" alt="Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
+<br>
+
 <div>
   <span>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipegomss&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -27,6 +29,8 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegomss&layout=compact&langs_count=7&theme=blue-green"/>
   </span>
 </div>
+
+<br>
 
 </details>
 <p align="center"> 
