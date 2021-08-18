@@ -8,10 +8,10 @@
     Always surrounded by technology, even in my hobbies, like playing the guitar and video games. I am constantly looking to learn new skills and improve the ones I         already have, so that each day I become a better person and professional. :computer:
   </samp>
 </p>
-<spam align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</spam>
+
 </details>
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
