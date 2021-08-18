@@ -9,12 +9,8 @@
   </samp>
 </p>
 <spam align="center">
-  <spam align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={felipegomss}&theme=blue-green"></a>
-  </spam>
-  <spam align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username={felipegomss}&theme=blue-green"></a>
-  </spam>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </spam>
 </details>
 <p align="center"> 
