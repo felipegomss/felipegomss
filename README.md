@@ -1,7 +1,7 @@
 <h1>Hello World! :earth_americas:</h1>
 <p align="left">
   <samp>
-    I am a front-end developer and UX Designer passionate about technology :wave:
+    I am a front-end developer, tester and UX Designer passionate about technology :wave:
     <br>
     I started studying Software Engineering, the first step of the career I dreamed of since the beginning of my adolescence :mortar_board:
     <br>
