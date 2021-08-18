@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={felipegomss}&theme=blue-green"></a>
   </spam>
   <spam align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username={felipegomss}&theme=blue-green"></a>
   </spam>
 </spam>
 </details>
