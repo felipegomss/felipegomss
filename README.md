@@ -8,14 +8,11 @@
     Always surrounded by technology, even in my hobbies, like playing the guitar and video games. I am constantly looking to learn new skills and improve the ones I         already have, so that each day I become a better person and professional. :computer:
   </samp>
 </p>
-<details>
-  <summary> <b> Languages and Tools </b> <i>(click to expand!)</i> </summary>
-
 <spam align="center">
   <spam align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={felipegomss}&theme=blue-green"></a>
   </spam>
-  <spam align="center">
+  <spam align="right">
     <img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"></a>
   </spam>
 </spam>
