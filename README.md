@@ -11,16 +11,6 @@
   </samp>
 </p>
 
-<div>
-  <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <span>•</span>
-  <img align="center" alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <span>•</span>
-  <img align="center" alt="JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <span>•</span>
-  <img align="center" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
@@ -35,13 +25,9 @@
 
 <br>
 
-<div>
-  <span>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipegomss&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  </span>
-  <span>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegomss&layout=compact&langs_count=7&theme=blue-green"/>
-  </span>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&username=felipegomss" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&username=felipegomss" height="150" alt="languages graph"  />
 </div>
 
 <br>
@@ -51,10 +37,17 @@
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/felipegomss"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter.png" alt="Twitter">     </a> &nbsp; &nbsp;
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipegomss/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/felipegomss" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/felipegomss/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 <p align="center">
   <i> Always learning and improving my skills :fireworks: </i>
 </p>
