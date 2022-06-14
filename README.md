@@ -1,13 +1,9 @@
 <h1>Hello World! :earth_americas:</h1>
 <p align="left">
   <samp>
-    +3 years of experience with IT, I started as full stack developer where I worked with ReactJs and Node, technologies that I love and seek to specialize in until today. I currently work at Ericsson Inovação S.A, creating and running tests on projects for our client, VIVO - Telefônica, one of the largest telephone companies in Brazil, that impacts the lives of more than 90 million people. :wave:
+    +3 years of experience with IT, I started as full stack developer where I worked with ReactJs and Node, technologies that I love and seek to specialize in until today. I currently work at Ericsson Inovação S.A, creating and running tests on projects for our client, VIVO - Telefônica, one of the largest telephone companies in Brazil, that impacts the lives of more than 90 million people. :computer:
     <br>
-    Passionate about technology and knowledge, my mission is to turn ideas into reality always with the best quality as possible. :mortar_board:
-    <br>
-    Currently, I work as a QA System Analyst at Ericsson Inovações. Where I create test scenarios and run them manually and automatically.
-    <br>
-:computer:
+    Passionate about technology and knowledge, my mission is to turn ideas into reality always with the best quality as possible. :wave:
   </samp>
 </p>
 
