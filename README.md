@@ -1,13 +1,13 @@
 <h1>Hello World! :earth_americas:</h1>
 <p align="left">
   <samp>
-    I am a front-end developer, tester and UX Designer passionate about technology :wave:
+    +3 years of experience with IT, I started as full stack developer where I worked with ReactJs and Node, technologies that I love and seek to specialize in until today. I currently work at Ericsson Inovação S.A, creating and running tests on projects for our client, VIVO - Telefônica, one of the largest telephone companies in Brazil, that impacts the lives of more than 90 million people. :wave:
     <br>
-    I started studying Software Engineering, the first step of the career I dreamed of since the beginning of my adolescence :mortar_board:
+    Passionate about technology and knowledge, my mission is to turn ideas into reality always with the best quality as possible. :mortar_board:
     <br>
     Currently, I work as a QA System Analyst at Ericsson Inovações. Where I create test scenarios and run them manually and automatically.
     <br>
-    Always surrounded by technology, even in my hobbies, like playing the guitar and video games. I am constantly looking to learn new skills and improve the ones I         already have, so that each day I become a better person and professional. :computer:
+:computer:
   </samp>
 </p>
 
@@ -34,7 +34,7 @@
 
 </details>
 <p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  <i> I am very communicative and I love to work in groups. We can get in touch in English or Portuguese. :incoming_envelope: </i>
 </p>
 
 <div align="center">
