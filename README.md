@@ -1,9 +1,10 @@
 <h1>Hello World! :earth_americas:</h1>
 <p align="left">
   <samp>
-    +3 years of experience with IT, I started as full stack developer where I worked with ReactJs and Node, technologies that I love and seek to specialize in until today. I currently work at Ericsson Inovação S.A, creating and running tests on projects for our client, VIVO - Telefônica, one of the largest telephone companies in Brazil, that impacts the lives of more than 90 million people. :computer:
+    I am a passionate individual with a deep love for music, technology, gaming, and soccer. As a front-end developer, I have honed my skills over the course of 4 years, specializing in crafting responsive and interactive user interfaces. I thrive on engaging in challenging projects that require problem-solving and the creation of innovative solutions. 
+Having had the privilege of working on impactful projects that have reached over 90 million users, I have developed the ability to perform under pressure and excel in project management. Collaborating with diverse and multidisciplinary teams in demanding environments has further enriched my professional experience. :computer:
     <br>
-    Passionate about technology and knowledge, my mission is to turn ideas into reality always with the best quality as possible. :wave:
+    I am always eager to embrace new opportunities and take on exciting challenges. Feel free to reach out to me in either Portuguese or English. :wave:
   </samp>
 </p>
 
