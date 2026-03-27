@@ -21,15 +21,7 @@ Apaixonado por arquitetura frontend, design systems e foco em produto. Atualment
 
 ---
 
-### 03 . STATS
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipegomss&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=333&icon_color=000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegomss&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" height="150" />
-</p>
-
----
-
-### 04 . CONNECT
+### 03 . CONNECT
 `Email` [ola@lfng.dev](mailto:ola@lfng.dev)
 `Web`   [lfng.dev](https://lfng.dev)
 `In`    [/in/felipegomss](https://www.linkedin.com/in/felipegomss/)
