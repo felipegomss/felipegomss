@@ -4,20 +4,20 @@
 ---
 
 ### 01 . PROFILE
-Apaixonado por arquitetura frontend, design systems e foco em produto. Atualmente liderando a modernização de sistemas legados e construindo soluções escaláveis na **Automind** e no meu estúdio **Void Creative Code**.
+Passionate about frontend architecture, design systems, and product-focused development. Currently leading the modernization of legacy systems and building scalable solutions at **Automind** and my studio, **Void Creative Code**.
 
-- 🚀 +5 anos de experiência construindo interfaces e APIs.
-- 🏗️ Especialista em React, Node.js, Next.js.
-- 🎓 MBA em Engenharia de Software (USP/Esalq).
+- 🚀 5+ years of experience building interfaces and APIs.
+- 🏗️ Specialist in React, Node.js, and Next.js.
+- 🎓 MBA in Software Engineering (USP/Esalq).
 
 ---
 
 ### 02 . TECH STACK
-`Frontend`  React, Next.js, TypeScript, Tailwind 4, Radix UI, Framer Motion.
-`Backend`   Node.js (NestJS), .NET 8, Go (Golang), Python.
-`Data`      PostgreSQL, SQL Server, Supabase, Redis, RabbitMQ.
-`DevOps`    Azure DevOps, AWS, Docker, GitHub Actions, CI/CD.
-`Testing`   Vitest, Playwright, Testing Library, MSW.
+`Frontend` React, Next.js, TypeScript, Tailwind 4, Radix UI, Framer Motion.  
+`Backend` Node.js (NestJS), .NET 8, Go (Golang), Python.  
+`Data` PostgreSQL, SQL Server, Supabase, Redis, RabbitMQ.  
+`DevOps` Azure DevOps, AWS, Docker, GitHub Actions, CI/CD.  
+`Testing` Vitest, Playwright, Testing Library, MSW.
 
 ---
 
@@ -30,9 +30,9 @@ Apaixonado por arquitetura frontend, design systems e foco em produto. Atualment
 ---
 
 ### 04 . CONNECT
-`Email` [ola@lfng.dev](mailto:ola@lfng.dev)
-`Web`   [lfng.dev](https://lfng.dev)
-`In`    [/in/felipegomss](https://www.linkedin.com/in/felipegomss/)
+`Email` [ola@lfng.dev](mailto:ola@lfng.dev)  
+`Web` [lfng.dev](https://lfng.dev)  
+`In` [/in/felipegomss](https://www.linkedin.com/in/felipegomss/)
 
 ---
 <p align="center">
