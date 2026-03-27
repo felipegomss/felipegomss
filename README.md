@@ -21,7 +21,15 @@ Apaixonado por arquitetura frontend, design systems e foco em produto. Atualment
 
 ---
 
-### 03 . CONNECT
+### 03 . ACTIVITY
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=felipegomss&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=A1A1AA&dates=71717A" alt="GitHub Streak Stats" height="150" />
+</p>
+
+---
+
+### 04 . CONNECT
 `Email` [ola@lfng.dev](mailto:ola@lfng.dev)
 `Web`   [lfng.dev](https://lfng.dev)
 `In`    [/in/felipegomss](https://www.linkedin.com/in/felipegomss/)
